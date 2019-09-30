@@ -12,7 +12,7 @@ Projects from ECS174 - Computer Vision
 
 ## Contents
 
-The code in each project was used to generate the results stored in pdf files, however some information has been withheld to prevent large file files and future copying from other students.
+The code in each project was used to generate the results stored in pdf files, however some information has been withheld to prevent large file sizes and future copying from other students.
 
 ## Authors
 
@@ -21,7 +21,7 @@ The code in each project was used to generate the results stored in pdf files, h
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
