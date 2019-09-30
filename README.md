@@ -1,9 +1,14 @@
 # ECS174-ComputerVision
 
 Projects from ECS174 - Computer Vision
-1. A version of the content-aware image resizing technique described in Shai Avidan and Ariel Shamir’s SIGGRAPH 2007 paper: "Seam Carving for Content-Aware Image Resizing"
-1. An image stitcher that uses image warping and homographies to automatically create mosaics
-1. A video search method to retrieve relevant frames from a video based on the features captured in the query region of a selected frame
+<ol>
+  <li><div><p>A version of the content-aware image resizing technique described in Shai Avidan and Ariel Shamir’s SIGGRAPH 2007 paper: "Seam Carving for Content-Aware Image Resizing"</p><img src="https://github.com/wyattrobertson/ECS174-ComputerVision/blob/master/preview_seamcarving.jpg" width="400">
+</div></li>
+  <li><div><p>An image stitcher that uses image warping and homographies to automatically create mosaics</p><img src="https://github.com/wyattrobertson/ECS174-ComputerVision/blob/master/preview_homography.jpg" width="400">
+</div></li>
+  <li><div><p>A video search method to retrieve relevant frames from a video based on the features captured in the query region of a selected frame</p><img src="https://github.com/wyattrobertson/ECS174-ComputerVision/blob/master/preview_VBOW.jpg" width="400">
+</div></li>
+</ol>
 
 ## Contents
 
